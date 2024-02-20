@@ -1,0 +1,17 @@
+/* admin-style.css */
+#add-to-cart-text-meta-box label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#add-to-cart-text-meta-box input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.wrap h2 {
+    margin-bottom: 20px;
+}
