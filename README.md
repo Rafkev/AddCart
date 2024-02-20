@@ -17,7 +17,7 @@ Customize Add to Cart Text is a WordPress plugin that allows users to customize 
 1. Download the plugin ZIP file.
 2. Log in to your WordPress admin panel.
 3. Navigate to Plugins > Add New.
-4. Click on the "Upload Plugin" button and upload the ZIP file you downloaded.
+4. Click on the "Upload Plugin" button and upload the ZIP file you downloaded. 
 5. Activate the plugin.
 
 ## Usage
